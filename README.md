@@ -29,9 +29,8 @@
 <img src='https://skillicons.dev/icons?i=css'>
 <img src='https://skillicons.dev/icons?i=html'>
   
-<img src='https://skillicons.dev/icons?i=android'>
+<img src='https://skillicons.dev/icons?i=AndroidStudio-Light.svg'>
 <img src='https://skillicons.dev/icons?i=react'>
-
 <img src='https://skillicons.dev/icons?i=wordpress'>
 <img src="https://skillicons.dev/icons?i=vscode">
 <img src="https://skillicons.dev/icons?i=supabase">
