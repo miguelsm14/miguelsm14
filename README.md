@@ -24,16 +24,16 @@
 
 <h2>🚀 Tecnologías y herramientas </h2>
 <p style="white-space: nowrap;">
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'>
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-<img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'>
-<img width="32" height="32" src="https://skillicons.dev/icons?i=vscode">
-<img width="32" height="32" src="https://skillicons.dev/icons?i=supabase">
-<img width="32" height="32" src="https://skillicons.dev/icons?i=postgres">
-<img width="32" height="32" src="https://skillicons.dev/icons?i=nextjs">
+<img src='https://skillicons.dev/icons?i=c'>
+<img src='https://skillicons.dev/icons?i=java'>
+<img src='https://skillicons.dev/icons?i=css'>
+<img src='https://skillicons.dev/icons?i=html'>
+<img src='https://skillicons.dev/icons?i=android'>
+<img src='https://skillicons.dev/icons?i=reactjs'>
+<img src='https://skillicons.dev/icons?i=wordpress'>
+<img src="https://skillicons.dev/icons?i=vscode">
+<img src="https://skillicons.dev/icons?i=supabase">
+<img src="https://skillicons.dev/icons?i=postgres">
+<img src="https://skillicons.dev/icons?i=nextjs">
 </p>
 
