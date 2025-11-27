@@ -5,7 +5,7 @@
 
 <h2> 🤵 Sobre mi </h2>
 
-<div size='20px'> Soy una persona que busca aprender nuevas tecnologias de forma autodidacta e ir consiguiendo nuevos conocimientos para seguir creciendo como programador. Disfruto de trabajar en equipo, ayudar amis compañeros en las adversidades y recibir feedbacks de expertos en el entorno. </div>
+<div size='20px'> Soy una persona que busca aprender nuevas tecnologías de forma autodidacta e ir adquiriendo nuevos conocimientos para seguir creciendo como programador. Disfruto trabajar en equipo, ayudar a mis compañeros en las adversidades y recibir feedback de expertos en el entorno. </div>
 
 ---
 
