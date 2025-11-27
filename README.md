@@ -28,7 +28,6 @@
 <img src='https://skillicons.dev/icons?i=java'>
 <img src='https://skillicons.dev/icons?i=css'>
 <img src='https://skillicons.dev/icons?i=html'>
-  
 <img src='https://skillicons.dev/icons?i=androidstudio'>
 <img src='https://skillicons.dev/icons?i=react'>
 <img src='https://skillicons.dev/icons?i=wordpress'>
@@ -38,3 +37,21 @@
 <img src="https://skillicons.dev/icons?i=nextjs">
 </p>
 
+---
+<br>
+
+<h2>💡 Proyectos Destacables </h2>
+<br>
+Proyecto -> Aplicación web desarrollado con React, Next JS, Node JS y Supabase como base de datos. 
+            Permite a las empresas el manejo de su contabilidad de forma sencilla e intuitiva.
+
+Características Especiales:
+  - Base de datos en la nube, usando Supabase.
+  - Gestión de datos económicos de cada empresa independientemente de las demas.
+  - Gestión de usuarios de cada empresa.
+  - Gestión de ingresos, gastos, gestor de cobro.
+  - Crear facturas, usuarios, formas de pago.
+
+
+
+Muchas gracias por visitar mi perfil. ¡ Estoy disponible para colaborar en nuevos proyectos y seguir aprendiendo de este maraviloso sector!
