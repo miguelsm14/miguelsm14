@@ -33,6 +33,7 @@
 <img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'>
 <img width="32" height="32" src="https://skillicons.dev/icons?i=vscode">
 <img width="32" height="32" src="https://skillicons.dev/icons?i=supabase">
-<img width="32" height="32" src="https://skillicons.dev/icons?i=sql">
+<img width="32" height="32" src="https://skillicons.dev/icons?i=postgres">
+<img width="32" height="32" src="https://skillicons.dev/icons?i=nextjs">
 </p>
 
