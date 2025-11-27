@@ -15,6 +15,6 @@
 
 ---
 
-<h1> 📬 ¡Contacta conmigo! </h1>
-<a href = 'https://www.linkedin.com/in/miguel-s%C3%A1nchez-maraver-72b51934b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<h2> 📬 ¡Contacta conmigo! </h2>
+<a href = 'https://www.linkedin.com/in/miguel-s%C3%A1nchez-maraver-72b51934b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> <br>
 <a href = 'https://www.instagram.com/14_miiguel/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
