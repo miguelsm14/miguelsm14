@@ -9,8 +9,8 @@
 
 ---
 
-🛠️ Técnico en Sistemas Microinformáticos y Redes 🛠️**
-💻 Desarrollador de Aplicaciones Multiplataforma 💻**
+🛠️ Técnico en Sistemas Microinformáticos y Redes 🛠️ <br>
+💻 Desarrollador de Aplicaciones Multiplataforma 💻 <br>
 🔎 En busqueda de trabajo para seguir ampliando mis conocimientos 🔎
 
 ---
