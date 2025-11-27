@@ -1,7 +1,7 @@
 <h1> ¡Hola a todos! Soy Miguel Sánchez Maraver <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-
+<br>
 
 <h2> 🤵 Sobre mi </h2>
 
@@ -14,7 +14,12 @@
 🔎 En busqueda de trabajo para seguir ampliando mis conocimientos 🔎
 
 ---
-
+<br>
 <h2> 📬 ¡Contacta conmigo! </h2>
 <a href = 'https://www.linkedin.com/in/miguel-s%C3%A1nchez-maraver-72b51934b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.instagram.com/14_miiguel/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+
+---
+<br>
+
+<h2> tecnologías y herramientas </h2>
