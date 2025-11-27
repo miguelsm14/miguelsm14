@@ -34,7 +34,7 @@
 ---
 <br>
 <h2> 📬 ¡Contacta conmigo! </h2>
-<a href = 'https://www.linkedin.com/in/miguel-s%C3%A1nchez-maraver-72b51934b/'> <img src="https://skillicons.dev/icons?i=Linkedln"></a> 
+<a href = 'https://www.linkedin.com/in/miguel-s%C3%A1nchez-maraver-72b51934b/'> <img src="https://skillicons.dev/icons?i=Linkedin"></a> 
 <a href = 'https://www.instagram.com/14_miiguel/'> <img src="https://skillicons.dev/icons?i=instagram"></a>
 <a href = 'https://www.instagram.com/14_miiguel/'> <img src="https://skillicons.dev/icons?i=gmail"> </a>
 
