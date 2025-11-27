@@ -44,7 +44,8 @@
 <br>
 Proyecto -> Aplicación web desarrollado con React, Next JS, Node JS y Supabase como base de datos. 
             Permite a las empresas el manejo de su contabilidad de forma sencilla e intuitiva.
-<br>
+
+            
 Características Especiales:
   - Base de datos en la nube, usando Supabase.
   - Gestión de datos económicos de cada empresa independientemente de las demas.
